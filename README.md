@@ -1,4 +1,5 @@
-## Eae! me chamo Eduardo Porangaba, tenho 18 anos começando a programar, todo dia querendo aprender!
+## Eae! me chamo Eduardo Porangaba
+ Tenho 18 anos começando a programar, venho tabalhando em projetos pessoais mas com foco em aprender mais em programação, trabalhando hoje como Assistente de T.I. Júnior e estudando.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
